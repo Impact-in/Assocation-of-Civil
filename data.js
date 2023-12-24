@@ -24,9 +24,7 @@ function register() {
     email = document.getElementById('email').value
     password = document.getElementById('password').value
     full_name = document.getElementById('full_name').value
-    adno = document.getElementById('adno').value
-    year = document.getElementById('year').value
-    whatsapp = document.getElementById('wapp').value
+  
 
 
     // Validate input fields
