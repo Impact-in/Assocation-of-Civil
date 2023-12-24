@@ -50,9 +50,6 @@ function register() {
             var user_data = {
                 email: email,
                 full_name: full_name,
-                Admission_no: adno,
-                year: year,
-                whatsapp_no: whatsapp,
                 last_login: Date.now(),
                 friend_name: "waiting to update the list"
             }
